@@ -1,0 +1,5 @@
+D:\Projects\dotNET\Projects\CSharp\test\test\bin\Release\test.exe
+D:\Projects\dotNET\Projects\CSharp\test\test\bin\Release\test.pdb
+D:\Projects\dotNET\Projects\CSharp\test\test\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\test\test\obj\Release\test.exe
+D:\Projects\dotNET\Projects\CSharp\test\test\obj\Release\test.pdb

@@ -1,0 +1,5 @@
+F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\DictConverter\DictConverter\bin\Debug\DictConverter.exe
+F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\DictConverter\DictConverter\bin\Debug\DictConverter.pdb
+F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\DictConverter\DictConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\DictConverter\DictConverter\obj\x86\Debug\DictConverter.exe
+F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\DictConverter\DictConverter\obj\x86\Debug\DictConverter.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\bin\Debug\XML.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\bin\Debug\XML.pdb
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\bin\Debug\XML.xml
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\XML.Form1.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\XML.Resources.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\XML.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\XML.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\XML.xml
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\XML\obj\Debug\XML.pdb
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\XML.exe
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\XML.xml
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\XML.pdb
+D:\Projects\VB.NET\Projects\XML\XML\bin\Debug\XML.exe
+D:\Projects\VB.NET\Projects\XML\XML\bin\Debug\XML.pdb
+D:\Projects\VB.NET\Projects\XML\XML\bin\Debug\XML.xml
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\XML.frmAddRule.resources
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\XML.Resources.resources
+D:\Projects\VB.NET\Projects\XML\XML\obj\Debug\XML.vbproj.GenerateResource.Cache

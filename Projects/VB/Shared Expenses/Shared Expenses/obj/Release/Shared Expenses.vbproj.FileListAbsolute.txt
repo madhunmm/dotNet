@@ -1,0 +1,185 @@
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 2\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Working\Shared Expenses\obj\Release\Shared_Expenses.Configure.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared_Expenses.Configure.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 4\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared_Expenses.Configure.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\VB.NET\Projects\Shared Expenses\Version 3.1\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared_Expenses.Configure.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 3.2\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.pdb
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared_Expenses.Configure.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Version 4.0\Shared Expenses\obj\Release\Shared_Expenses.MergeDatabase.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.exe.manifest
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.exe
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.pdb
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\bin\Release\Shared Expenses.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\bin\Release\Interop.SpeechLib.dll
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Interop.SpeechLib.dll
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.vbproj.ResolveComReference.cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.AddEntry.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.Configure.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.Menu.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.MergeDatabase.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.Resources.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared_Expenses.ViewSummary.resources
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.vbproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.TrustInfo.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.exe.manifest
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.application
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.exe
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.xml
+D:\Projects\dotNET\Projects\VB\Shared Expenses\Shared Expenses\obj\Release\Shared Expenses.pdb

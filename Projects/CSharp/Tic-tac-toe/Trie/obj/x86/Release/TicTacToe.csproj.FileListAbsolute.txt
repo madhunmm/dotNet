@@ -1,0 +1,9 @@
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\bin\x86\Release\TicTacToe.exe
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\bin\x86\Release\TicTacToe.pdb
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\TicTacToe.exe
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\TicTacToe.pdb
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\DS.Properties.Resources.resources
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\DS.UI.resources
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\x86\Release\GenerateResource.write.1.tlog

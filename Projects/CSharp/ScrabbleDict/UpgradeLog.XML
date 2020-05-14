@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScrabbleDict">
+</Property><Property Name="Solution File" Value="F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\ScrabbleDict.sln">
+</Property><Property Name="User Options File" Value="F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\ScrabbleDict.suo">
+</Property><Property Name="Date" Value="Sunday, January 30, 2011">
+</Property><Property Name="Time" Value="13:27 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ScrabbleDict.sln" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ScrabbleDict.suo" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict.suo">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\ScrabbleDict.csproj" Description="Project file successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\ScrabbleDict.csproj">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\ScrabbleDict.csproj.user" Description="Project user file successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\ScrabbleDict.csproj.user">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Form1.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Form1.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Program.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Program.cs">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Properties\Settings.settings" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Form1.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\Properties\Resources.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\ScrabbleDict\Backup\ScrabbleDict\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\ScrabbleDict.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ScrabbleDict" Source="ScrabbleDict\ScrabbleDict.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ScrabbleDict.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ScrabbleDict.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScrabbleDict" Source="ScrabbleDict\ScrabbleDict.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

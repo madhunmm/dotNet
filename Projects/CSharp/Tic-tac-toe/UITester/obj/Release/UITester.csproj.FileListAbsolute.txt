@@ -1,0 +1,10 @@
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\bin\Release\UITester.exe
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\bin\Release\UITester.pdb
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\obj\Release\UITester.Form1.resources
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\obj\Release\UITester.Properties.Resources.resources
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\obj\Release\UITester.csproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\obj\Release\UITester.exe
+D:\Projects\VB.NET\Projects\CSharp\Trie\UITester\obj\Release\UITester.pdb
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\UITester\obj\Release\UITester.exe
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\UITester\obj\Release\UITester.pdb

@@ -1,0 +1,5 @@
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\bin\Debug\Sockets.exe
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\bin\Debug\Sockets.pdb
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\obj\Debug\Sockets.exe
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\obj\Debug\Sockets.pdb

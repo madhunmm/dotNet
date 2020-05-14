@@ -1,0 +1,8 @@
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\obj\x86\Release\GoliPuzzle.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\bin\Release\GoliPuzzle.exe
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\bin\Release\GoliPuzzle.pdb
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\obj\x86\Release\GoliPuzzle.exe
+D:\Projects\dotNET\Projects\CSharp\GoliPuzzle\GoliPuzzle\obj\x86\Release\GoliPuzzle.pdb

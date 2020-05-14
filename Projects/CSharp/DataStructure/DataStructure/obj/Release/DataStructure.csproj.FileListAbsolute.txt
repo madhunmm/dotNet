@@ -1,0 +1,5 @@
+D:\Projects\VB.NET\Projects\CSharp\DataStructure\DataStructure\bin\Release\DataStructure.dll
+D:\Projects\VB.NET\Projects\CSharp\DataStructure\DataStructure\bin\Release\DataStructure.pdb
+D:\Projects\VB.NET\Projects\CSharp\DataStructure\DataStructure\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\CSharp\DataStructure\DataStructure\obj\Release\DataStructure.dll
+D:\Projects\VB.NET\Projects\CSharp\DataStructure\DataStructure\obj\Release\DataStructure.pdb

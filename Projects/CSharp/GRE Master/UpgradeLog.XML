@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GRE Master">
+</Property><Property Name="Solution File" Value="D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master.sln">
+</Property><Property Name="Date" Value="Sunday, October 18, 2015">
+</Property><Property Name="Time" Value="14:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GRE Master.sln" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master.sln">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GRE Master.csproj" Description="Project file successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\GRE Master.csproj">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GRE Master.csproj.user" Description="Project user file successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\GRE Master.csproj.user">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Splash.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Splash.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Splash.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Splash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordTest.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordTest.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordTest.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordTest.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\FormMaintenance.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\FormMaintenance.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GREMaster.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\GREMaster.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GREMaster.designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\GREMaster.designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\MeaningToWordTest.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\MeaningToWordTest.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Program.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Program.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Serializer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Serializer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\SerializerFactory.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\SerializerFactory.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Test.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Test.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\TestFactory.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\TestFactory.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\TestMode.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\TestMode.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\TestMode.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\TestMode.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\TextSerializer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\TextSerializer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordEntry.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordEntry.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordList.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordList.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordListDialog.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordListDialog.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordListDialog.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordListDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordToMeaningTest.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordToMeaningTest.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\XMLSerializer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\XMLSerializer.cs">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Properties\Settings.settings" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\MSN.ICO" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\MSN.ICO">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Splash.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Splash.resx">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordTest.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordTest.resx">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GREMaster.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\GREMaster.resx">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\Properties\Resources.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\TestMode.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\TestMode.resx">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\WordListDialog.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\GRE Master\WordListDialog.resx">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GRE Master.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GRE Master" Source="GRE Master\GRE Master.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\TextToXmlConverter.csproj" Description="Project file successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\TextToXmlConverter.csproj">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Form1.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Form1.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Program.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Program.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Serializer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Serializer.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\SerializerFactory.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\SerializerFactory.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\TextSerializer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\TextSerializer.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\WordEntry.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\WordEntry.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\WordList.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\WordList.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\XMLSerializer.cs" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\XMLSerializer.cs">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Properties\Settings.settings" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\MSN.ICO" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\MSN.ICO">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Form1.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\Properties\Resources.resx" Description="File successfully backed up as D:\Projects\dotNET\Projects\CSharp\GRE Master\Backup\TextToXmlConverter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\TextToXmlConverter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TextToXmlConverter" Source="TextToXmlConverter\TextToXmlConverter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GRE Master.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GRE Master.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GRE Master" Source="GRE Master\GRE Master.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TextToXmlConverter" Source="TextToXmlConverter\TextToXmlConverter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

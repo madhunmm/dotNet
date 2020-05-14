@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRE Master", "GRE Master\GRE Master.csproj", "{50B921B4-4DB9-4EEA-8390-2B0CBFD3CF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToXmlConverter", "TextToXmlConverter\TextToXmlConverter.csproj", "{5D989621-76A3-4FF7-BBE7-5AFD0C30656F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B921B4-4DB9-4EEA-8390-2B0CBFD3CF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B921B4-4DB9-4EEA-8390-2B0CBFD3CF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B921B4-4DB9-4EEA-8390-2B0CBFD3CF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B921B4-4DB9-4EEA-8390-2B0CBFD3CF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D989621-76A3-4FF7-BBE7-5AFD0C30656F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D989621-76A3-4FF7-BBE7-5AFD0C30656F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D989621-76A3-4FF7-BBE7-5AFD0C30656F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D989621-76A3-4FF7-BBE7-5AFD0C30656F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

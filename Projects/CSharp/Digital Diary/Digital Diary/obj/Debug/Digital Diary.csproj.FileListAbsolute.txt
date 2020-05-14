@@ -1,0 +1,16 @@
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\bin\Debug\Digital Diary.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\bin\Debug\Digital Diary.pdb
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\obj\Debug\Digital_Diary.WritePad.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\obj\Debug\Digital_Diary.Properties.Resources.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\obj\Debug\Digital Diary.csproj.GenerateResource.Cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\obj\Debug\Digital Diary.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\Digital Diary\obj\Debug\Digital Diary.pdb
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\obj\Debug\Digital Diary.exe
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\obj\Debug\Digital Diary.pdb
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\bin\Debug\Digital Diary.exe
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\bin\Debug\Digital Diary.pdb
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.WritePad.resources
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\obj\Debug\Digital_Diary.Properties.Resources.resources
+D:\Projects\VB.NET\Projects\CSharp\Digital Diary\Digital Diary\obj\Debug\Digital Diary.csproj.GenerateResource.Cache

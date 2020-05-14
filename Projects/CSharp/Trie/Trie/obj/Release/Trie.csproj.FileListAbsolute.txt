@@ -1,0 +1,7 @@
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\bin\Release\Trie.pdb
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\obj\Release\Trie.pdb
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\bin\Release\Trie.exe
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\obj\Release\Trie.exe
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\obj\Release\DS.UI.resources
+D:\Projects\VB.NET\Projects\CSharp\Trie\Trie\obj\Release\Trie.csproj.GenerateResource.Cache

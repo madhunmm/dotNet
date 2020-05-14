@@ -1,0 +1,50 @@
+<GRAMMAR>
+	<RULE NAME="Madhu to Sudarshan" TOPLEVEL="ACTIVE">
+		<O>How much does</O>
+		<O>How much should</O>
+		<P>Madhu</P>
+		<O>owe</O>
+		<O>give</O>
+		<P>Sudarshan</P>
+	</RULE>
+	<RULE NAME="Madhu to Pink" TOPLEVEL="ACTIVE">
+		<O>How much does</O>
+		<O>How much should</O>
+		<P>Madhu</P>
+		<O>owe</O>
+		<O>give</O>
+		<P>Pink</P>
+	</RULE>
+	<RULE NAME="Sudarshan to Madhu" TOPLEVEL="ACTIVE">
+		<O>How much does</O>
+		<O>How much should</O>
+		<P>Sudarshan</P>
+		<O>owe</O>
+		<O>give</O>
+		<P>Madhu</P>
+	</RULE>
+	<RULE NAME="Sudarshan to Pink" TOPLEVEL="ACTIVE">
+		<O>How much does</O>
+		<O>How much should</O>
+		<P>Sudarshan</P>
+		<O>owe</O>
+		<O>give</O>
+		<P>Pink</P>
+	</RULE>
+	<RULE NAME="Pink to Madhu" TOPLEVEL="ACTIVE">
+		<O>How much does</O>
+		<O>How much should</O>
+		<P>Pink</P>
+		<O>owe</O>
+		<O>give</O>
+		<P>Madhu</P>
+	</RULE>
+	<RULE NAME="Pink to Sudarshan" TOPLEVEL="ACTIVE">
+		<O>How much does</O>
+		<O>How much should</O>
+		<P>Pink</P>
+		<O>owe</O>
+		<O>give</O>
+		<P>Sudarshan</P>
+	</RULE>
+</GRAMMAR>

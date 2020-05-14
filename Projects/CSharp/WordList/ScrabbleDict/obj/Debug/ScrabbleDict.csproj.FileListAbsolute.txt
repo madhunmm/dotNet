@@ -1,0 +1,30 @@
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\bin\Debug\ScrabbleDict.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\bin\Debug\ScrabbleDict.pdb
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\obj\Debug\ScrabbleDict.Form1.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\obj\Debug\ScrabbleDict.Properties.Resources.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\obj\Debug\ScrabbleDict.csproj.GenerateResource.Cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\obj\Debug\ScrabbleDict.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\ScrabbleDict\obj\Debug\ScrabbleDict.pdb
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ScrabbleDict.exe
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ScrabbleDict.pdb
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ScrabbleDict.Form1.resources
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ScrabbleDict.Properties.Resources.resources
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ScrabbleDict.csproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\bin\Debug\ScrabbleDict.exe
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\bin\Debug\ScrabbleDict.pdb
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\obj\Debug\ScrabbleDict.csproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\CSharp\ScrabbleDict\ScrabbleDict\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\bin\Debug\ScrabbleDict.exe
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\bin\Debug\ScrabbleDict.pdb
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ScrabbleDict.csproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ScrabbleDict.Form1.resources
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ScrabbleDict.Properties.Resources.resources
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ScrabbleDict.csproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ScrabbleDict.exe
+D:\Projects\VB.NET\Projects\CSharp\WordList\ScrabbleDict\obj\Debug\ScrabbleDict.pdb

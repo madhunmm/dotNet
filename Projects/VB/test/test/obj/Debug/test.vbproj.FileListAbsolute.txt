@@ -1,0 +1,24 @@
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\bin\Debug\test.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\bin\Debug\test.pdb
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\bin\Debug\test.xml
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\test.Resources.resources
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\test.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\test.exe
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\test.xml
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\test.pdb
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\Interop.Scripting.dll
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\obj\Debug\test.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Madhusudanaan NM\Local Settings\Application Data\Temporary Projects\test\bin\Debug\Interop.Scripting.dll
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\test.vbproj.ResolveComReference.cache
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\test.exe
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\test.xml
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\test.pdb
+D:\Projects\VB.NET\Projects\test\test\bin\Debug\test.exe
+D:\Projects\VB.NET\Projects\test\test\bin\Debug\test.pdb
+D:\Projects\VB.NET\Projects\test\test\bin\Debug\test.xml
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\test.Resources.resources
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\test.vbproj.GenerateResource.Cache
+D:\Projects\VB.NET\Projects\test\test\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Projects\VB.NET\Projects\test\test\obj\Debug\Interop.IWshRuntimeLibrary.dll

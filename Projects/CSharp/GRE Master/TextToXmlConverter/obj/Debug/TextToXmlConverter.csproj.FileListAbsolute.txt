@@ -1,0 +1,7 @@
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\bin\Debug\TextToXmlConverter.exe
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\bin\Debug\TextToXmlConverter.pdb
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\obj\Debug\TextToXmlConverter.Form1.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\obj\Debug\TextToXmlConverter.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\obj\Debug\TextToXmlConverter.csproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\obj\Debug\TextToXmlConverter.exe
+D:\Projects\dotNET\Projects\CSharp\GRE Master\TextToXmlConverter\obj\Debug\TextToXmlConverter.pdb

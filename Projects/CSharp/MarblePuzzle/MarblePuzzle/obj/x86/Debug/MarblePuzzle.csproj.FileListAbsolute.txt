@@ -1,0 +1,8 @@
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\bin\Debug\MarblePuzzle.exe
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\bin\Debug\MarblePuzzle.pdb
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\obj\x86\Debug\MarblePuzzle.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\obj\x86\Debug\MarblePuzzle.exe
+D:\Projects\dotNET\Projects\CSharp\MarblePuzzle\MarblePuzzle\obj\x86\Debug\MarblePuzzle.pdb

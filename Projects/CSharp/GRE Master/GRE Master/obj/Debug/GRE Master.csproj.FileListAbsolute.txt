@@ -1,0 +1,11 @@
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\bin\Debug\GRE Master.exe
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\bin\Debug\GRE Master.pdb
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE_Master.Splash.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE_Master.WordTest.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE_Master.GREMaster.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE_Master.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE_Master.TestMode.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE_Master.WordListDialog.resources
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE Master.csproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE Master.exe
+D:\Projects\dotNET\Projects\CSharp\GRE Master\GRE Master\obj\Debug\GRE Master.pdb

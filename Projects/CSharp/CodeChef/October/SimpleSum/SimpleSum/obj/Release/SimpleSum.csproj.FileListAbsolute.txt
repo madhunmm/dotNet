@@ -1,0 +1,5 @@
+D:\Projects\dotNET\Projects\CSharp\CodeChef\October\SimpleSum\SimpleSum\bin\Release\SimpleSum.exe
+D:\Projects\dotNET\Projects\CSharp\CodeChef\October\SimpleSum\SimpleSum\bin\Release\SimpleSum.pdb
+D:\Projects\dotNET\Projects\CSharp\CodeChef\October\SimpleSum\SimpleSum\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\CodeChef\October\SimpleSum\SimpleSum\obj\Release\SimpleSum.exe
+D:\Projects\dotNET\Projects\CSharp\CodeChef\October\SimpleSum\SimpleSum\obj\Release\SimpleSum.pdb

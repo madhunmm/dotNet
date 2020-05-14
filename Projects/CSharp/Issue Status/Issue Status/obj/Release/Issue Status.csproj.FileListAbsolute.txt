@@ -1,0 +1,8 @@
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\bin\Release\Issue Status.exe
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\bin\Release\Issue Status.pdb
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\obj\Release\Issue_Status.IssueStatus.resources
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\obj\Release\Issue_Status.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\obj\Release\Issue Status.csproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\obj\Release\Issue Status.exe
+D:\Projects\dotNET\Projects\CSharp\Issue Status\Issue Status\obj\Release\Issue Status.pdb

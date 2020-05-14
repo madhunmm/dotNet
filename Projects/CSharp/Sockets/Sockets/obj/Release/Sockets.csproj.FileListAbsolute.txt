@@ -1,0 +1,5 @@
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\bin\Release\Sockets.exe
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\bin\Release\Sockets.pdb
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\obj\Release\Sockets.exe
+D:\Projects\dotNET\Projects\CSharp\Sockets\Sockets\obj\Release\Sockets.pdb

@@ -1,0 +1,9 @@
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\bin\Debug\Shared Expenses Agent.exe
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\bin\Debug\Shared Expenses Agent.pdb
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\Shared_Expenses_Agent.Agent.resources
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\Shared_Expenses_Agent.Configure.resources
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\Shared_Expenses_Agent.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\Shared Expenses Agent.csproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\Shared Expenses Agent.exe
+D:\Projects\dotNET\Projects\CSharp\Shared Expenses Agent\Shared Expenses Agent\obj\Debug\Shared Expenses Agent.pdb

@@ -1,0 +1,5 @@
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\bin\Debug\TicTacToe.exe
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\bin\Debug\TicTacToe.pdb
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\Debug\TicTacToe.exe
+F:\Projects\dotNET\Projects\CSharp\Tic-tac-toe\Trie\obj\Debug\TicTacToe.pdb

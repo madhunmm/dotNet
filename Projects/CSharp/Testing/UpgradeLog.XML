@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Shared Expenses Agent">
+</Property><Property Name="Solution File" Value="F:\Projects\dotNET\Projects\CSharp\Testing\Shared Expenses Agent.sln">
+</Property><Property Name="User Options File" Value="F:\Projects\dotNET\Projects\CSharp\Testing\Shared Expenses Agent.suo">
+</Property><Property Name="Date" Value="Monday, July 11, 2011">
+</Property><Property Name="Time" Value="21:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Shared Expenses Agent.sln" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Shared Expenses Agent.suo" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent.suo">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Shared Expenses Agent.csproj" Description="Project file successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Shared Expenses Agent.csproj">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Shared Expenses Agent.csproj.user" Description="Project user file successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Shared Expenses Agent.csproj.user">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Agent.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Agent.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Agent.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Agent.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Client.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Client.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Configure.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Configure.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Configure.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Configure.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Message.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Message.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\MessageHandler.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\MessageHandler.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Program.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Program.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Server.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Server.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Settings.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\MessageManager.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\MessageManager.cs">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Properties\Settings.settings" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\MSN.ICO" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\MSN.ICO">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Agent.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Agent.resx">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Configure.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Configure.resx">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Properties\Resources.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Testing\Backup\Shared Expenses Agent\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Shared Expenses Agent.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Shared Expenses Agent.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Shared Expenses Agent.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Shared Expenses Agent.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Shared Expenses Agent" Source="Shared Expenses Agent\Shared Expenses Agent.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

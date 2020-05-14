@@ -1,0 +1,8 @@
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.pdb
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Form1.resources
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Properties.Resources.resources
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.Cache
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.exe
+C:\Data\Projects\dotNET\Projects\CSharp\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.pdb

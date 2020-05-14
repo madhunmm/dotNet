@@ -1,0 +1,13 @@
+bin\Debug\Time teller.exe
+bin\Debug\Time teller.pdb
+bin\Debug\Time teller.xml
+bin\Debug\Interop.SpeechLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SpeechLib.dll
+obj\Debug\Time teller.vbproj.ResolveComReference.cache
+obj\Debug\Time_teller.Form1.resources
+obj\Debug\Time_teller.Resources.resources
+obj\Debug\Time teller.vbproj.GenerateResource.Cache
+obj\Debug\Time teller.exe
+obj\Debug\Time teller.xml
+obj\Debug\Time teller.pdb

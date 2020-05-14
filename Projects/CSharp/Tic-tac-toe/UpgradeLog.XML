@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Trie">
+</Property><Property Name="Solution File" Value="F:\Projects\dotNET\Projects\CSharp\Trie\Trie.sln">
+</Property><Property Name="User Options File" Value="F:\Projects\dotNET\Projects\CSharp\Trie\Trie.suo">
+</Property><Property Name="Date" Value="Wednesday, June 29, 2011">
+</Property><Property Name="Time" Value="23:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Trie.sln" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Trie.suo" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie.suo">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\Trie.csproj" Description="Project file successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie\Trie.csproj">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\Trie.csproj.user" Description="Project user file successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie\Trie.csproj.user">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\IDataStructure.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie\IDataStructure.cs">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\Tester.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie\Tester.cs">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\Trie.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\Trie\Trie.cs">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\Trie.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Trie" Source="Trie\Trie.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\UITester.csproj" Description="Project file successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\UITester.csproj">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\UITester.csproj.user" Description="Project user file successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\UITester.csproj.user">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Form1.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Form1.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Form1.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\IDataStructure.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\IDataStructure.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Program.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Program.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Trie.cs" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Trie.cs">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Properties\Settings.settings" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Form1.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Form1.resx">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\Properties\Resources.resx" Description="File successfully backed up as F:\Projects\dotNET\Projects\CSharp\Trie\Backup\UITester\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\UITester.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UITester" Source="UITester\UITester.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Trie.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Trie.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Trie" Source="Trie\Trie.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UITester" Source="UITester\UITester.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

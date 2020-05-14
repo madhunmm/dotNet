@@ -1,0 +1,8 @@
+H:\Projects\dotnet\LogParser\LogParser\bin\Debug\LogParser.exe
+H:\Projects\dotnet\LogParser\LogParser\bin\Debug\LogParser.pdb
+H:\Projects\dotnet\LogParser\LogParser\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\dotnet\LogParser\LogParser\obj\Debug\LogParser.Form1.resources
+H:\Projects\dotnet\LogParser\LogParser\obj\Debug\LogParser.Properties.Resources.resources
+H:\Projects\dotnet\LogParser\LogParser\obj\Debug\LogParser.csproj.GenerateResource.Cache
+H:\Projects\dotnet\LogParser\LogParser\obj\Debug\LogParser.exe
+H:\Projects\dotnet\LogParser\LogParser\obj\Debug\LogParser.pdb

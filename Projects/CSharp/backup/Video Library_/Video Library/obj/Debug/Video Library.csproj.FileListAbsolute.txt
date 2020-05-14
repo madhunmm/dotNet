@@ -1,0 +1,10 @@
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video_Library.Properties.Resources.resources
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video Library.csproj.GenerateResource.Cache
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\bin\Debug\Video Library.exe
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\bin\Debug\Video Library.pdb
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video Library.exe
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video Library.pdb
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video_Library.VideoLibrary.resources
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video_Library.ViewDetails.resources
+D:\Projects\dotNET\Projects\CSharp\Video Library\Video Library\obj\Debug\Video_Library.Configure.resources

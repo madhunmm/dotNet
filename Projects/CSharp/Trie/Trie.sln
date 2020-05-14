@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie\Trie.csproj", "{28A4F6EC-56C7-400E-A6C9-811D98F32901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITester", "UITester\UITester.csproj", "{F221E7E6-BFEC-4BD0-9427-BFA882166230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A4F6EC-56C7-400E-A6C9-811D98F32901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A4F6EC-56C7-400E-A6C9-811D98F32901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A4F6EC-56C7-400E-A6C9-811D98F32901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A4F6EC-56C7-400E-A6C9-811D98F32901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F221E7E6-BFEC-4BD0-9427-BFA882166230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F221E7E6-BFEC-4BD0-9427-BFA882166230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F221E7E6-BFEC-4BD0-9427-BFA882166230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F221E7E6-BFEC-4BD0-9427-BFA882166230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
